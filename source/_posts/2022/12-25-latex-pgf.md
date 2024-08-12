@@ -11,7 +11,7 @@ categories: latex
 
 ### 重叠 overlap
 
-![image-20221118150932126](12-25-latex-pgf-fig/image-20221118150932126.png)
+![有重叠](https://s2.loli.net/2024/08/12/NCBuKLX3Ivfr4e9.png)
 
 ```latex
 \usepackage{pgfplots}
@@ -22,5 +22,4 @@ categories: latex
 
 https://tex.stackexchange.com/questions/46634/ylabel-position-with-pgfplots
 
-![image-20221118150904016](12-25-latex-pgf-fig/image-20221118150904016.png)
-
+![无重叠](https://s2.loli.net/2024/08/12/9Abt5lmnYMxvrQg.png)
