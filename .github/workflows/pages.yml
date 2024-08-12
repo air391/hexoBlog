@@ -29,13 +29,12 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install -g hexo-cli
-      - name: Clone theme
-        run: git clone https://github.com/next-theme/hexo-theme-next.git ./themes/next
+      # - name: Clone theme
+      #   run: git clone https://github.com/next-theme/hexo-theme-next.git ./themes/next
       - name: Build
         run: |
             hexo generate
             wc -l public/index.html
-            cat ./public/index.html
             ls -R public/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
