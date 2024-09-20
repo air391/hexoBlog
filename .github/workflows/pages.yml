@@ -26,9 +26,6 @@ jobs:
         run:
           npm i -g hexo-cli
           npm ci
-          cd themes/tranquilpeak/
-          npm ci
-          npm run prod
       # - name: Clone theme
       #   run: git clone https://github.com/next-theme/hexo-theme-next.git ./themes/next
       - name: Build
