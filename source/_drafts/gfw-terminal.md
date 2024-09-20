@@ -1,9 +1,9 @@
 ---
-title: 命令行遇到墙
-date: 2022-12-25 22:26:49
+title: gfw-terminal
 tags: gfw
 categories: 命令行
 ---
+
 ## tun 模式
 
 tun模式安装，参见[clash教程](https://docs.cfw.lbyczf.com/contents/tun.html#windows)
