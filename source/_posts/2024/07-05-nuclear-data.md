@@ -18,7 +18,7 @@ tags:
 
 [xsplot](https://xsplot.com/) 似乎有待维护
 
-## (n,$\gamma$)截面
+## (n,γ)截面
 
 [atlas](https://www.iaea.org/resources/databases/atlas-of-neutron-capture-cross-sections)
 
