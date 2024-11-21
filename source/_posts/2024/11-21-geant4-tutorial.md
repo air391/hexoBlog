@@ -2,6 +2,10 @@
 title: geant4-tutorial
 date: 2024-11-21 17:40:38
 tags:
+ - geant4
+ - 文档
+ - 教程
+categories: geant4
 ---
 
 ## 探测器几何

@@ -5,6 +5,7 @@ tags:
 - cern-root
 - cmake
 - pyroot
+categories: cern-root
 ---
 ## 问题描述
 

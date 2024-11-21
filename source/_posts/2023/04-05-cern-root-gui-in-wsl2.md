@@ -4,7 +4,7 @@ date: 2023-04-05 15:38:53
 tags:
 - cern-root
 - wsl2
----
+categories: cern-root
 ## 原因
 
 参考地址[root forum](https://root-forum.cern.ch/t/root-on-windows-11-wsl2-wslg/48348/7)， [微软](https://learn.microsoft.com/en-us/answers/questions/704294/drop-down-menu-appears-incorrectly-when-working-on)，为wslg的bug截至2023年4月5日，`wsl --update`，暂未修复。

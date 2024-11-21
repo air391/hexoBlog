@@ -2,8 +2,9 @@
 title: 核数据查询汇总
 date: 2024-07-05 15:07:45
 tags: 
-- hexo
-- nuclear data
+ - 核数据
+ - backup
+categories: 备忘
 ---
 
 # 核素数据
