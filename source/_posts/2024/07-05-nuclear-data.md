@@ -39,6 +39,11 @@ tags:
 - Incoherent Scattering
     - 康普顿散射
 
+# 射程数据
+
+[nist射程数据](https://www.nist.gov/pml/stopping-power-range-tables-electrons-protons-and-helium-ions)
+电子、质子、$alpha$射程分别对应ESTAR、PSTAR、ASTAR
+
 # 闪烁体
 
 各种闪烁体特征，近年无更新
