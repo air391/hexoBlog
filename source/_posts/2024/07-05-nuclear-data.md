@@ -15,19 +15,14 @@ categories: 备忘
 
 [jaea](https://wwwndc.jaea.go.jp/index.html)
 
-# 中子相关数据
-
-[xsplot](https://xsplot.com/) 似乎有待维护
+# 截面数据
+[nndc](https://www.nndc.bnl.gov/sigma) 各类截面数据
 
 ## (n,γ)截面
 
 [atlas](https://www.iaea.org/resources/databases/atlas-of-neutron-capture-cross-sections)
 
-# niel 换算
-
-[rd50](http://rd50.web.cern.ch/)
-
-# 光子截面
+## 光子截面
 
 [xcom](https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html)
 
@@ -39,6 +34,10 @@ categories: 备忘
     - 相干散射在低能、对高Z物质时是重要的
 - Incoherent Scattering
     - 康普顿散射
+
+# niel 换算
+
+[rd50](http://rd50.web.cern.ch/)
 
 # 射程数据
 
