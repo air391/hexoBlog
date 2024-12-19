@@ -13,6 +13,8 @@ categories: 备忘
 此类颇多，关键词 plot digitizer
 [webplotdigitizer](https://automeris.io/)
 
+[graphreader](http://www.graphreader.com/2dreader)支持对热图取点
+
 ## excel表格转标记格式
 
 [Tables Generator](https://www.tablesgenerator.com/)
