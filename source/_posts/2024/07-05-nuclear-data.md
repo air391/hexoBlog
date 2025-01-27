@@ -48,3 +48,7 @@ categories: 备忘
 
 各种闪烁体特征，近年无更新
 [https://scintillator.lbl.gov/](https://scintillator.lbl.gov/)
+
+# 在轨辐照环境
+
+[CRDB](https://lpsc.in2p3.fr/crdb/#) 地面观测站数据汇总，可以用不同地面观测站得到solar modulation的参考值；useful links里有一些其他参考
